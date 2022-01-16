@@ -17,11 +17,11 @@ h1{
 #Home {
   display: flex;
   flex-direction: column;
-  height: 170vh;
+  margin-top: 150px;
+  margin-bottom: 150px;
+  height: 110vh;
   justify-content: center;
   align-items: center;
-  background-color: rgb(#000000);
-  background-image: url("Profile-Picture.jpg");
   background-position: center;
   background-size: length;
   background-repeat: no-repeat;
@@ -36,6 +36,11 @@ h1{
   bottom: 0;
   z-index: -1;
   opacity: 0.8;
+}
+
+.profile-img{
+  max-width: 130%;
+  max-height: 130%;
 }
 
 /* Timeline Start */
