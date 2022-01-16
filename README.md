@@ -1,4 +1,5 @@
-[TODO: Replace with your Netflify status badge]
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5d89fcae-ff95-42f2-917c-c50541f97e4d/deploy-status)](https://app.netlify.com/sites/admiring-bhaskara-ec8220/deploys)
+
 
 # HTML and CSS Assessment
 
